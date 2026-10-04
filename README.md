@@ -23,10 +23,11 @@ The DLL is copied to `contrib/Distribution/PluginRelease/`.
 
 ## Credits
 
-- [SkyrimScripting](https://github.com/SkyrimScripting/SKSE_Template_HelloWorld) — project template.
-- [alandtse and the CommonLibSSE-NG contributors](https://github.com/alandtse/CommonLibSSE-NG) — CommonLibSSE-NG.
-- [SKSE Team](https://www.nexusmods.com/skyrimspecialedition/mods/30379) — SKSE.
-- [meh321](https://www.nexusmods.com/skyrimspecialedition/mods/32444) — Address Library.
+- [WinterFlame](https://www.nexusmods.com/profile/WinterFlame) and [dylbill](https://www.nexusmods.com/profile/dylbill) - earlier Smart Training implementations that inspired this project
+- [mrowrpurr](https://www.nexusmods.com/profile/mrowrpurr) - [project template](https://github.com/SkyrimScripting/SKSE_Template_HelloWorld)
+- [alandtse](https://github.com/alandtse) - [CommonLibSSE-NG](https://github.com/alandtse/CommonLibSSE-NG) and [VR Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/58101)
+- SKSE Team - [SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
+- [meh321](https://www.nexusmods.com/profile/meh321) - [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
 
 ## License
 
